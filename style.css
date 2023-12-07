@@ -1,0 +1,33 @@
+body{
+    margin:0 ;
+    padding: ers;
+    font-family: "poppins";
+    display: inline; 
+    place-items: center;
+    box-sizing: border-box;
+    background-color: mediumvioletred;
+}
+.contianer{
+ height: 80vh;
+ width: 300px;
+ text-align: center;
+ border-radius: 5px;
+}
+
+#items{
+    list-style: none;
+    padding: 5;
+    position: relative;
+    width: 100px;
+    overflow: scroll;
+}   
+a:hover{
+    background-color: deep shadow white;
+    color: black
+    ; text-decoration: transparent;
+}
+
+
+    --web-scrolbar{
+        display: inline;
+a:link{text-decoration:transparent;}
